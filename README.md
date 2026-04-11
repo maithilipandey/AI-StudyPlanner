@@ -15,7 +15,7 @@ An intelligent web application that helps students generate personalized study p
 - TypeScript
 - Tailwind CSS
 - PNPM
-
+- 
 ## 📦 Installation & Run Locally
 
 ```bash
