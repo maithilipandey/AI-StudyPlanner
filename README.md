@@ -7,7 +7,7 @@ An intelligent web application that helps students generate personalized study p
 - Subject-wise breakdown
 - Weekly guidance
 - Progress tracking
-- Interactive UI
+- Interactive UI 
 
 ## 🛠️ Tech Stack
 - Next.js
